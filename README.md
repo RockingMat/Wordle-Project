@@ -1,7 +1,3 @@
-Here’s a README template for your Wordle project:
-
----
-
 # Wordle Project
 
 ## Overview
@@ -81,5 +77,3 @@ Feel free to submit issues or pull requests. For major changes, please open an i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adjust any sections as needed!
